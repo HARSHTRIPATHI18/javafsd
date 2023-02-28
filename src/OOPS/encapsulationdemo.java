@@ -13,7 +13,8 @@ public class encapsulationdemo {
 		// TODO Auto-generated method stub
 System.out.println("hello ");
 System.out.println("hello  shachi ");
-itn a = 5;
+System.out.println("hello  harsh ");
+
 	}
 
 }
